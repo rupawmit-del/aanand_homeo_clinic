@@ -1,0 +1,6 @@
+{
+  "name": "Aanand Homeo Clinic & Pharmacy",
+  "description": "Aanand Homeo Clinic & Pharmacy in Rajgir, Bihar. Genuine homeopathic medicines, healthcare products, expert consultations, and WhatsApp medicine delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
